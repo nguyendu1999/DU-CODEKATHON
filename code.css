@@ -31,15 +31,16 @@ h1{
 }
 
 .min{
-    border-radius: 5px;
+    border-radius: 20px;
     position: relative;
     background-color: yellowgreen;
-    margin: 30px;
-    width: 20vw;
-    height: auto;
+    margin: 40px;
+    width: 23vw;
+    height: 10vh;
     text-align: center;
-    left: 38%;
+    left: 37%;
     font-size: 30px;
+    padding-top: 20px;
 }
 
 .download{
